@@ -101,4 +101,6 @@ $(function () {
         });
     });
 
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5kRkiSs94TUgTu3Rud0r25yconfsR57Upu03SyLEwXc"></script>
+
 })
